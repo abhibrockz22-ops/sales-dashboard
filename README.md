@@ -1,4 +1,6 @@
-# Sales & Market Analytics Dashboard
+# Sales & Market Analytics Dashboard ## Dashboard Preview
+
+![Sales Dashboard](dashboard.png)
 
 ## Overview
 Interactive Power BI dashboard created to analyze sales performance, revenue trends, and key business KPIs.
